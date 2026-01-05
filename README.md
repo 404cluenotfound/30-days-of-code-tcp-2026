@@ -18,4 +18,4 @@
 
 # DAY5
 ![OUTPUT PAGE 1](https://drive.google.com/uc?export=view&id=1lMBwO53ESsF2WWsPbHa-DZMtl7OyuBvX)
-[a live ](https://30-days-of-code-tcp-2026.vercel.app/)
+[soft color Tic-Tac-Toe](https://30-days-of-code-tcp-2026.vercel.app/)
