@@ -24,4 +24,4 @@
 ![OUTPUT PAGE 1](https://drive.google.com/uc?export=view&id=1864fbqru4i2alX6SZgqaKuWlelD4gzGK)
 
 # DAY7
-![OUTPUT PAGE 1](https://drive.google.com/uc?export=view&id=1E5-BGs1hzVPzxg6MTyGr0N-vpvAbPjoz)
+![OUTPUT PAGE 1](https://drive.google.com/uc?export=view&id=1_to51LYeDkerd2lJAJGfZnPis7TmG7CX)
