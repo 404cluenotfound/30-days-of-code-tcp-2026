@@ -3,24 +3,24 @@ public:
     int sumOfEncryptedInt(vector<int>& nums) {
         int total = 0;
 
-        for (int x : nums) {
-            int temp = x;
+        for (int i : nums) {
+            int y = i;
 
-            int mx = 0;
+            int max = 0;
             int digits = 0;
-            while (temp > 0) {
-                int d = temp % 10;
-                mx = max(mx, d);
+            while (y > 0) {
+                max = max(max, y%10);
                 digits++;
-                temp /= 10;
+                y /= 10;
             }
             int ones = 0;
-            for (int i = 0; i < digits; i++) {
+            for (int j = 0; j < digits; j++) {
                 ones = ones * 10 + 1;
             }
-            int enc = mx * ones;
+            int enc = max * ones;
             total += enc;
         }
         return total;
     }
 };
+
