@@ -22,9 +22,6 @@ public:
     }
 };
 
-
-
-
 //code with time complexity o(nlogn);
 
 class Solution {
@@ -64,3 +61,4 @@ public:
 
 
 }
+
