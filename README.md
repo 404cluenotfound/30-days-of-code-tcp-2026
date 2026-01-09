@@ -29,3 +29,6 @@
 # DAY8
 ![OUTPUT PAGE 8](https://drive.google.com/uc?export=view&id=17oMAM_seqPiS8CHKwbpB_UBhlB76DUyg)
 
+# day9 
+![OUTPUT PAGE 9](https://drive.google.com/uc?export=view&id=1tS3e3itaIMlZxF_lrGY1UvZ_3hRuZ5wp)
+
