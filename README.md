@@ -33,4 +33,4 @@
 ![OUTPUT PAGE 9](https://drive.google.com/uc?export=view&id=1tS3e3itaIMlZxF_lrGY1UvZ_3hRuZ5wp)
 
 # DAY10
-![OUTPUT PAGE 10](https://drive.google.com/uc?export=view&id1cL8yotPs_lGt8LBbPh9-powmmYN0nAk3)
+![OUTPUT PAGE 10](https://drive.google.com/uc?export=view&id=1cL8yotPs_lGt8LBbPh9-powmmYN0nAk3)
