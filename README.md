@@ -37,3 +37,6 @@
 
 # DAY11
 ![OUTPUT PAGE 10](https://drive.google.com/uc?export=view&id=1g__qaSCa0DW_1JBqtMUeoIJaO0D8mzgz)
+
+# DAY12
+![OUTPUT PAGE 10](https://drive.google.com/uc?export=view&id=1xrjgrKJ3jaX8D7YMVwG7Neumlw7d7-C0)
