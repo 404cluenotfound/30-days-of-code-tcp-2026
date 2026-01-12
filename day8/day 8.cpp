@@ -1,4 +1,4 @@
-//code with time complexity 0(n);
+//code with time complexity O(n);
 
 class Solution {
 public:
@@ -20,45 +20,5 @@ public:
         }
         return longest;
     }
-};
-
-//code with time complexity o(nlogn);
-
-class Solution {
-public:
-    int longestConsecutive(vector<int>& nums) {
-    if (nums.empty()) return 0;
-
-    stack<int> st;
-    for (int x : nums) st.push(x);
-
-    int longest = 0;
-
-    while (!st.empty()) {
-        int start = st.top();
-        st.pop();
-
-        int curr = start;
-        int len = 1;
-        while (true) {
-            bool found = false;
-            for (int v : nums) {
-                if (v == curr + 1) {
-                    curr = v;
-                    len++;
-                    found = true;
-                    break;
-                }
-            }
-            if (!found) break;
-        }
-
-        longest = max(longest, len);
-    }
-
-    return longest;
-}
-
-
-}
+};
 
