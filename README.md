@@ -43,3 +43,6 @@
 
 # DAY13
 ![OUTPUT PAGE 10](https://drive.google.com/uc?export=view&id=1aNzOgpAXKq9fVibdVXScK0BJDQ5O7mat)
+
+# DAY14
+![OUTPUT PAGE 10](https://drive.google.com/uc?export=view&id=1ntbt1MNeaxipJjaa5g--UNmR4xmOiFSZ)
