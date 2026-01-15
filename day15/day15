@@ -1,0 +1,35 @@
+class Solution {
+public:
+    long long HCF(long long a, long long b) {
+        while (b) {
+            long long t = a % b;
+            a = b;
+            b = t;
+        }
+        return a;
+    }
+    long long LCM(long long a, long long b) {
+        return a / HCF(a, b) * b;
+    }
+    long long countUgly(long long x, long long a, long long b, long long c) {
+        long long ab  = LCM(a, b);
+        long long bc  = LCM(b, c);
+        long long ac  = LCM(a, c);
+        long long abc = LCM(ab, c);
+
+        return  x/a + x/b + x/c - x/ab - x/bc - x/ac + x/abc;
+    }
+    int nthUglyNumber(int n, int a, int b, int c) {
+        long long A = a, B = b, C = c;
+        long long low = 1, high = INT_MAX;
+
+        while (low < high) {
+            long long mid = low + (high - low) / 2;
+            if (countUgly(mid, A, B, C) >= n)
+                high = mid;
+            else
+                low = mid + 1;
+        }
+        return (int)low;
+    }
+};
